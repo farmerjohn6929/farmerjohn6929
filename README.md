@@ -10,7 +10,6 @@ Main programming interests:
   - Crypto mining & trading analysis
 
 Current learing and working with:
-  - JS
-    - CSS & HTML
+  - JS (along with CSS & HTML)
   - Python
   - ABB RAPID
