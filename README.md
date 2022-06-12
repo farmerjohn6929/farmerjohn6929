@@ -3,13 +3,15 @@ farmerjohn6929/farmerjohn6929 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3>Just program as a hobby.</h3>
+#### Just a hobbyist programmer.
+- If you see something that looks wrong its probably because I don't know any better.
 
-<strong>Main programming interests:</strong>
-  - ECU data analysis (car tuning)
-  - Crypto mining & trading analysis
+#### Current learing and working with:
+- JS, NodeJs, Electron
+- ABB RAPID
+- Python
 
-<strong>Current learing and working with:</strong>
-  - JS, NodeJs, Electron
-  - Python
-  - ABB RAPID
+#### Git Projects
+- Hangman Pool
+  - Electron node.js app.
+  - Designed for a raspberry pi touch screen to track pool win/loss history for different player combinations.
