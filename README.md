@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Current learing and working with:
 - JS, NodeJs, Electron
-- ABB RAPID
+- ABB RAPID (Professionally)
 - Python
 
 #### Git Projects
